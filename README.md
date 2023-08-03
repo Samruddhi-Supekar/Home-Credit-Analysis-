@@ -1,7 +1,7 @@
 # Home Credit Analysis
 
 ## Table of contents
-- [Summary of the Business problem and project objective](#Summary-of-the Business-problem-and-project-objective)
+- [Summary of the Business problem and project objective](#Summary-of-the-Business-problem-and-project-objective)
 - [Solution to the Business Problem](#Solution-to-the-Business-Problem)
 - [My contribution to the Project](#My-contribution-to-the-Project)
 - [Difficulties faced](#Difficulties-faced)
